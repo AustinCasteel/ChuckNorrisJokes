@@ -27,9 +27,9 @@ class ChuckNorrisJokes(plugin.SpeechHandlerPlugin):
                             'WHAT IS A CHUCK NORRIS JOKE'
                         ]
                     }
-                }
-            },
-            'action': self.handle
+                },
+                'action': self.handle
+            }
         }
 
     # The handle method is where you pick up after Naomi has
