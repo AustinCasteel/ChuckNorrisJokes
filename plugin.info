@@ -1,0 +1,10 @@
+[Plugin]
+Name = Chuck Norris Jokes
+Version = 1.0
+License = MIT
+URL = https://github.com/austincasteel/chucknorrisjokes/
+Description = Have Naomi tell random Chuck Norris Jokes
+
+[Author]
+Name = Austin Casteel
+URL = https://github.com/austincasteel/
